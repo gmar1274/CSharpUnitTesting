@@ -15,7 +15,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace WpfApp3
-{//Gabe martinez
+{//Gabe martinez 
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
